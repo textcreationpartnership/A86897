@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Glorious light]</title>
+            <author>Hunt, James, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86897</idno>
+            <idno type="STC">Wing H3730</idno>
+            <idno type="STC">Thomason E270_27</idno>
+            <idno type="STC">ESTC R212287</idno>
+            <idno type="EEBO-CITATION">99870925</idno>
+            <idno type="PROQUEST">99870925</idno>
+            <idno type="VID">159449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159449)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E270[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Glorious light]</title>
+                  <author>Hunt, James, 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to James Hunt.</note>
+                  <note>Title and imprint from Wing.</note>
+                  <note>Imperfect: lacks all before p. 1.</note>
+                  <note>Annotation on Thomason copy: "James Hunt his Glorious Light feb 27th 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:159449:1"/>
+            <pb n="1" facs="tcp:159449:1" rendition="simple:additions"/>
+            <head>Chriſtian Reader.</head>
+            <p>BY that glorious light, which God hath given to me, all people by degrees ſhall ſee, that true peace and ſound Religion can<g ref="char:EOLhyphen"/>not be eſtabliſhed without the help of a true and ſound preach<g ref="char:EOLhyphen"/>er, whom God hath made able by the divine power of his ſpirit for to open and unfould the myſteries and parables in the new Teſta<g ref="char:EOLhyphen"/>ment, to the true meaning and ſignification, to the ſetting forth of Chriſt, and the true Church with that riches and honour and glory which doth belong to the Saints, and one the other ſide to the con<g ref="char:EOLhyphen"/>founding of falſe power, and falſe doctrines, which doth belong to the devill, which God hath promiſed ſhall come to confuſion; and I ſay plainely, and truely that God my glorious Father, he hath made me <hi>Iames Hunt</hi> a preacher for the ſame purpoſe, which I have ſhewed you here in briefe.</p>
+            <q>
+               <l>For with my verſes, and my proſe,</l>
+               <l>The devill, and all his carnall miniſters I ſhall diſcloſe.</l>
+               <l>For my verſes which have ſhort and long feet,</l>
+               <l>That will teach thoſe that are blind,</l>
+               <l>For to have more wit.</l>
+            </q>
+            <p>For it is written in the tenth Chapter of Saint <hi>Matthew</hi> 41. verſe. <hi>Chriſt he tells you plainly, he that receiveth a Prophet in the name of a Pro<g ref="char:EOLhyphen"/>phet, hee ſhall receive a Prophet rewards;</hi> And that is the reward of of eternall glory; but ye Proteſtants, and Papiſts, your faith is grown ſo cold, that you will not beleeve that I am a true Prophet except I can ſhew you a miracle, that you may it behold, why then I will ſhow you in brife of one ſtrange thing, where at you all may wonder, why the Proteſtants and Papiſt ſhould devide themſelves aſunder, for the Papiſts they do ſay, that they beleeve in the Catholike Church, and ſo ſay the Proteſtants, but by the power of God, I will boldly ſay that your cleargy, they have deceive you upon both ſides, for if there be any Proteſtant, or Papiſt that can finde any place of Scrip<g ref="char:EOLhyphen"/>ture
+<pb n="2" facs="tcp:159449:2" rendition="simple:additions"/>in the new Teſtament, for to prove that the true Church of Chriſt is a Catholike Church, then I will be content to be burned, but God he hath made me a member of his glorious and triumphing Church, for Chriſt ſaith in <hi>Iohn</hi> the 12. Chap. and the 28. Verſ: <hi>Fa<g ref="char:EOLhyphen"/>ther glorifie thy name, then came there a voice from heaven ſaying, I have glorified it, and I will glorifie it again,</hi> and in the 27. Chapter of <hi>Iohn, Chriſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith pl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inly, the glory which thou haſt given me, I have given unto them that they may be all one, as thou Father art in me, and I in thee, that they may be all one in us, that the world may beleeve that thou haſt ſent me again.</hi> In the ſecond Epiſtle to the Corinthians the ſecond chap<g ref="char:EOLhyphen"/>ter, and fourteen verſe. <hi>Now thankes be to God which alwayes cauſeth us, to triumph in Chriſt Ieſus,</hi> this word alwayes doth plainly ſignifie, here in this world, and in the world to come for ever, and I have proved in brief that Chriſt hath a glorious and triumphing Church here in this world, and God my glorious Father, by the power<g ref="char:EOLhyphen"/>full preaching of his word, he will cauſe the glorious Church of Je<g ref="char:EOLhyphen"/>ſus Chriſt for to flouriſh by degrees over the whole world, which will be to the confounding of the devill, and the falſe Church; it is written in the twenty chapter of the Revelations. <hi>I ſaw a great white throne, and him that ſate on it, from whoſe face the earth, and the hea<g ref="char:EOLhyphen"/>ven fled away, and there was no place found for them.</hi> Now I underſtand, he that ſits upon the white Throne, doth ſignifie Chriſt and his preacher, for he that is joyned to the Lord is one ſpirit, as you may read in the firſt Epiſtle to the Corinthians the ſixe chapter, and the ſeventeen verſ. But ye black coats, you do ſay, that you are the hea<g ref="char:EOLhyphen"/>venly miniſters of God, and that you have the heavenly treaſure of Chriſt, in your earthen veſſels, but I ſay that God he hath made me able for to ſhew ye black coats, by what meanes you may have the heavenly treaſures of Jeſus Chriſt in your earthen veſſels; but you doe flie, from me, as if I were an Antichriſt, and a deceiver even like unto your ſelves, but ye black coats I muſt tell you, and your diſciples that you ſhall finde no true ſound reſt for your ſoul, untill you be reconciled to Jeſus Chriſt, and to the Miniſtration of the blood of the new Teſtament, which is the Throne of grace, but maſter black coat you do ſay that the devill hath puffed me up with pride, But I praiſe God you arrowes hit not mee, for you
+<pb n="3" facs="tcp:159449:2"/>ſhot far wide, for God he hath given me that knowledge for to be as humble as a Lamb, and that valour and courage for to be as bould as a Lyon, and now ye black birds which cry out ſo loud in your black coats, I muſt tell you plainly you ſhall be all forced for to change your notes, for you are not able for to make a cleere deſtinction be<g ref="char:EOLhyphen"/>tweene God and the devill, for to ſay, nor yet to ſing, and yet will you be ſo bould for to ſtir up War and ſtrife between the Parliament &amp; my King, but M<hi rend="sup">r</hi>. black coat you are a man of War, &amp; ſo am I and there<g ref="char:EOLhyphen"/>fore pray let you and I the battell try for by the power of God, I will boldly ſay as it is written in the cha. 8. of the Rom. &amp; the 15. v. I have not received the ſpirit of bondage again to feare, but I have received the ſpirit of adoption, and now by the help of God I ſhall prove in briefe, that the ſpirit of adoption doth ſignifie Chriſt and the Goſpel, but the ſpirit of bondage that doth ſignifie the Devill, and the old law, my firſt proofe is in the ſecond chapter to the Hebrewes and the fourteene verſe, for as the children were made partakers of fleſh and blood, Chriſt likewiſe took part of the ſame, that through death he might deſtroy him that had the power of death, and that is the Devil; and ſo deliver thoſe who through feare of death, were all there life time ſubject to bondage: This place of Scripture doth plainly prove and ſignifie that all thoſe people that were under the old law, they were under a yoke of bondage, untill Chriſt freed them by his ſuf<g ref="char:EOLhyphen"/>fering on the croſſe again, in the ſeven chapter to the Romanes and the ſixe verſ. Now we are delivered from the Law, that being dead, wherein we were held, as held under the chaines and bondage of Sathan, that we ſhould ſerve in newneſſe of ſpirit, and not in the oldneſſe of the letter, that in the newneſſe of the Goſpel and not in the oldneſſe of the Law, and thus I have proved in briefe, that the old Law is the ſpirit of bondage, and ſo is the Devill, but ye black coats you do ſay that, Chriſt hath redeemed us from the ceremoniall Law, and for the Iudiacall &amp; Leviticall Law, and ſo by your cunning craft, you doe divide the old Law into many parts but if I aske any of you if there be any more the two Teſtaments you will ſay no, why then my anſwer to you is, in the ninth chapter to the Hebrewes; and the fifteen verſ. Chriſt he is the Mediator of the new Teſtament, that by his ſuffering on the croſſe, for to Redeeme them that were
+<pb n="4" facs="tcp:159449:3"/>under the firſt Teſtament, and now all ye black coats by the power of God, you ſhall be forced for to confeſſe, that the old Law and Teſtament, is the firſt Teſtament which Chriſt hath Redeemed his people from, but ye cleargy by your darke arts of Schollerſhip you doe clime ſo high that you are yet like the Devill, for the plain truth of God he doth deny, but the fulneſſe of time was come, God ſent forth his Son made of a woman, made under the Law for to redeeme them that were under the Law, that we might receive the adoption of ſons, Gal. 4. and now I ſay plainly that all thoſe that be reconciled to Chriſt and to the obedience of his word, be the adopted ſons and daughters of Almighty God, for to raine with Chriſt in his ever<g ref="char:EOLhyphen"/>laſting Kingdom of glory in heaven above for ever.</p>
+            <lg>
+               <l>For by the power of God all people by degrees ſhall ſee.</l>
+               <l>That the true light and glory of Jeſus Chriſt,</l>
+               <l>Doth not proceed from the Univerſitie.</l>
+               <l>But yee clergy you are very ſubtile and worldly wiſe,</l>
+               <l>For the old law upholds you in your tenthes and tithes.</l>
+               <l>And that is the maine cauſe whereat you need not wonder,</l>
+               <l>Whay the cleargy will not alow that the old Law,</l>
+               <l>And Teſtament, and the new ſhould part aſunder.</l>
+               <l>But by the power of God for to</l>
+               <l>Speak the truth I will be bould,</l>
+               <l>For what will it profit you for to gaine the world, and loſe your ſoul.</l>
+               <l>For you ſhall be forced for to underſtand and ſee.</l>
+               <l>That the ſon of the bond-woman cannot be heir with the free,</l>
+            </lg>
+            <p>As you may read in the fourth chapter to the Gallations and the thirty verſe.</p>
+            <p>For ye blacke coates by the powerfull Prieſthood of Melchi<g ref="char:EOLhyphen"/>ſedeck I ſhall cleere all your eyes which are grown ſo dull and thicke, for if the High Court of parliament will but ſuffer me for to ſpread my books about, by the power of God I ſhall confound the Devill and all his route (now I pray God grant that the High court of Par<g ref="char:EOLhyphen"/>liament may ſit in Judgement for that intent) and then I am ſure, marke what I ſay, you will not hinder me in my way, for it is writ<g ref="char:EOLhyphen"/>ten, Heb. 7. concerning one <hi>Melchiſedeck</hi> who is Prieſt of the moſt
+<pb n="5" facs="tcp:159449:3"/>high God, and he is King of peace which doth ſignifie Chriſt Jeſus who is the Second Perſon in Vnity, again it is ſaid that he is with<g ref="char:EOLhyphen"/>out Father and Mother and without Deſcent and that doth ſignifie God the Father, who is the firſt parſon in unity, again, it is ſaid that he hath neither beginning of daies nor end of life, but he is made like unto the Son of God, and that doth ſignifie God the holy Ghoſt who is the third Perſon in Unity, and thus by the helpe of God I have ſhewed you in briefe that you may ſee, that the true interpretation of <hi>Melchiſedech</hi> doth ſignifie the Holy and Glorious Unity, Father, Son and holy Ghoſt, for I ſay again, that there are three That bare record in Heaven: The Father, the Word, and the holy Ghoſt and theſe three are one, 1 John 5.7. The word doth ſignifie Chriſt, <hi>For in the beginning was the Word, and the Word was with God, Iohn</hi> the firſt, for Chriſt was with God the Father in the beginning before man was made, and the Word was made fleſh, Chriſt was made fleſh and dwelt amongſt us, verſ. 14. and I have proved in breef that Chriſt is the Word and the Word is God, and know you not that chriſt is in you except you be reprobates, as you may read in 2 Cor. 5.5. Again, there is one God and father of all, who is above all and in you all, as you may read, Epheſ. 4.5. Again, in 1 Cor. 19. What? <hi>know you not that your body is the Temple of the holy Ghoſt, which is in you, &amp; you are not your owne, for you are all bought with a price, and that is, with the precious blood of Ieſus Chriſt, for it pleaſed the Father that in Christ ſhould all fulneſſe dwell, and having made peace through the blood of his Croſse for to reconcile all things unto himſelfe,</hi> as you may read in 2 Col. 1.19. and thus by theſe plain and cleer truths of Scripture, which by Gods helpe I have ſhewed you, here in breef I have painly and cleerly proved that all thoſe people that will bee reconciled to Chriſt and to the miniſtration of the blood of the New Teſtament your ſpirits, they ſhall be joyned to the Glorious unity, Father, Son and holy Ghoſt, for as they three cannot be divided from being one in the Godhead, and unity, neither can the ſpirits of the true Chrtch be divided from them three which is the life and ſubſtance of true peace and ſound Religion, as I in breefe have ſhewed you, as God my Father hath ſhewed me.</p>
+            <lg>
+               <l>And by the Spirit of Almighty God which proceedeth from above,</l>
+               <l>I hope to draw my King and Parliament into the bond of peace &amp; love.</l>
+               <l>And now all ye carnall Miniſters and falſe Powers, what ſo ever you be,</l>
+               <l>By the Power of God you ſhall be forced for to ſee:</l>
+               <l>That if you will not be reconciled to this bleſſed peace and unity:</l>
+               <pb n="6" facs="tcp:159449:4"/>
+               <l>I ſay again if you will not be reconciled, you ſhall be ſure damned to be.</l>
+            </lg>
+            <p>I or I muſt plainly tell you that God and his preacher you ſhall finde true. For what ſaith the ſcripture, God will take vengeance on thoſe that know not God, and that obey not the Goſpel of our Lord Jeſus Chriſt, who ſhall be puniſhed with everlaſting deſtruction from the preſence of the Lord, and from the glory of His power as you may read, 2 Theſ. 1.8. But I pray under<g ref="char:EOLhyphen"/>ſtand the Goſpel in his right place. For it is the new Teſtement which pro<g ref="char:EOLhyphen"/>ceedeth from the throne of grace for mercy and ſound judgement, they are notes of my Proſe and my Song;</p>
+            <lg>
+               <l>For by Gods mercy and ſound judgement I no man wrong.</l>
+               <l>For mercy and ſound judgement belongeth to my powerfull Godand to my Kings ſeat.</l>
+               <l>Whereunto I am Ordained a preacher with power and courage ſtrongly for to pleat.</l>
+               <l>And now ye <hi>Round-Heads</hi> which for true Religion do beare the name:</l>
+               <l>I hope that you will not fight againſt God and the Truth for very ſhame,</l>
+               <l>For if you will be perſwaded by God and me:</l>
+               <l>You may live in peace and unitee.</l>
+            </lg>
+            <p>And now the God of love and peace who hath brought againe from the dead our Lord Ieſus, that Great Sepheard of the ſheep, through the blood of the everlaſting Covenat, make you all perfect to do his will, working in you that which is pleaſing in his ſight, through the divine power of Ieſus Chriſt our Lord, Heb. 13.20. I ſay again, that Chriſt Jeſus He is the great Shep<g ref="char:EOLhyphen"/>heard of the ſheep, and I acknowledge that there is but one true and perfect God, and there muſt be but one Religion, one Sepheard and one ſheepfold, and I ſay plainely and truely that God my Father He hath made me a preach<g ref="char:EOLhyphen"/>er for to gather the ſheep into the true found, that Gods love, and power, and Glory you may behold.</p>
+            <lg>
+               <l>For now my verſes and my proſe, which ſhall be plainly ſhowne.</l>
+               <l>They will prove that God hath lighted my candle within his glorious throne.</l>
+               <l>And now ye Magiſtrates and Churchwardens, I pray take not that in hand,</l>
+               <l>For to fight againſt the Power of God, which you are not able to withſtand,</l>
+               <l>For God he hath given me authority, as you ſhall know and finde,</l>
+               <l>For to be a preacher in the Church for to declare his minde,</l>
+               <l>That by his power I may open the peoples eys whom the Clergy do keep blinde.</l>
+               <l>But there are ſome of you Magiſtrates and Churchwardens which doe hold forth ſuch a falſe power,</l>
+               <l>That you fight againſt the power of God but you ſhall be all brought lower.</l>
+               <l>For if you will fight againſt the power of God, for to hinder him in his way,</l>
+               <l>If you do not repent you will be ſure hell fire for to obay.</l>
+               <l>But I hope there is none of you that doth deſire for to hurn in Hell.</l>
+               <l>Why then I pray fight not againſt the power of God for he will have his Will,</l>
+               <pb n="7" facs="tcp:159449:4"/>
+               <l>But are not all thoſe plain hypocrites as I ſhall ſhow you by relation,</l>
+               <l>Which fight againſt that you pray for, which is abomination.</l>
+               <l>For in the Lords prayer you do pray that Gods will may be done,</l>
+               <l>Why then I pray fight not againſt that power which doth proceed from the Father and the Sonne.</l>
+               <l>For they have made me a powerfull preacher of Their Word,</l>
+               <l>Which is the powerfull and fiery ſword:</l>
+               <l>That thereby I may cut and burn down that helliſh power,</l>
+               <l>Which doth the Saints of God devour.</l>
+               <l>For as a temporall fire will burn and conſume Straw or Hay,</l>
+               <l>Even ſo Gods Word willl ſhine ſo cleer, mark what I ſay,</l>
+               <l>For to burn and conſume falſe power quite away.</l>
+               <l>And now all perſecuting Angels, if you can be able to hinder the Sun in the Firmament that he ſhall not ſhine at Noone day,</l>
+               <l>Then you may be able for to hinder my powerfull God from going forward in his way.</l>
+               <l>For all falſe power which is hatefull in Gods ſight,</l>
+               <l>That ſhall be reproved and quite overthrown, by the power and glory of the true light.</l>
+               <l>And now by that glorious light which God hath given to me,</l>
+               <l>Ye Proteſtants and Papiſts you may underſtand and ſee,</l>
+               <l>That your Clergy they have deceived you upon both ſides by their craft and policie.</l>
+               <l>But now ye proteſtants and Papiſts which are always at warre and ſtrife,</l>
+               <l>In this Book I have ſhewed you how your ſpirits may be joyned to my God of Peace, and leade a quiet life.</l>
+               <l>But Greek and Latin, you that bear dominion over Gods houſe,</l>
+               <l>I muſt tell you plainly your deceitfull craft is not worth a Lowſe,</l>
+               <l>For ye Clergy by your Greek and Latin phraſe,</l>
+               <l>You do blinde the people many wayes:</l>
+               <l>For you call the Church of Chriſt by the name Catholike, and Militant, and Proteſtant, but alas you are more blinde and cannot ſee,</l>
+               <l>For a true Chriſtian he doth bear the true toyl of the Church of Chriſt, and I in him, and he in me.</l>
+            </lg>
+            <p>And all the members of the true Church of Chriſt, they are to be called by the name of Chriſtians, for Chriſt and his Church is compared in Scrip<g ref="char:EOLhyphen"/>pture to man and wife, for Chriſt he is the Bridegroom and his Church is the Bride, although the Members thereof ſhall be infinite in number: And therefore I ſay again that the Church of Chriſt ſhe muſt be called by the name of her Husband, for whether things preſent or things to come all is one, and we are Chriſts and Chriſt is Gods: 1 <hi>Cor.</hi> 3.23.</p>
+            <lg>
+               <l>But the Ravens are black and the Doves are gray,</l>
+               <l>But yet I pray will you mark well what I do ſay:</l>
+            </lg>
+            <pb n="8" facs="tcp:159449:5"/>
+            <p>For I do not deſpiſe a black garment, but the clergy by their black gar<g ref="char:EOLhyphen"/>ments they do ſtrengthen themſelves in their falſe power for their black gar<g ref="char:EOLhyphen"/>ments doth ſignifie unto the people, that they have been all bred up in Uni<g ref="char:EOLhyphen"/>verſities, and the people they are yet ſo farre deluded by thoſe dark Arts of Schollerſhip which proceed from the clergie, that you do think that no man can be a true and a ſound Preacher, but firſt he muſt be bred up in the Uni<g ref="char:EOLhyphen"/>verſitie.</p>
+            <lg>
+               <l>But by that glorious light which God hath given to me,</l>
+               <l>You may underſtand and plainly ſee,</l>
+               <l>That you have been mightily deceived in your judgement.</l>
+               <l>But there is one Mr. <hi>Kentiſh</hi> which is grown a crafty foxe,</l>
+               <l>But God he hath given me a key for to open all your locks,</l>
+               <l>For I hear that you have got a Mittimus from the Committee for to ſend me to the Goal.</l>
+               <l>But by the power of God I ſhall ſet a fire the Foxes tayl.</l>
+               <l>For you are a great enemy againſt the Cavalier,</l>
+               <l>But your falſe power ſhall be quite burnt up with fire:</l>
+               <l>For when I ſtrike you home with Gods fiery dart,</l>
+               <l>Then you creep to the Committees, and intreat them to take your part.</l>
+               <l>But I hope the Committees will learn that wiſedome for to give way and roome,</l>
+               <l>That I may within your Pulpit come.</l>
+               <l>That ſo by the power of God I may ſhow them and you the true way of peace</l>
+               <l>That by the power therof your war and plunder may end and ceaſe.</l>
+               <l>For theſe things I behold with my ſpirttuall eye,</l>
+               <l>For which I honour my King, and worſhip the holy and glorious unitie:</l>
+               <l>And wiſh well to the Parliament that is ſo high.</l>
+            </lg>
+            <lg>
+               <l>For if you will be perſwaded by God and me,</l>
+               <l>You may live in peace and unitie;</l>
+               <l>For to triumph in true peace and glory,</l>
+               <l>Here for a time, and in the world to come world without end.</l>
+            </lg>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
